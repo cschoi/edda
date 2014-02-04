@@ -1,6 +1,12 @@
 Packages to install
 ===================
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 These command should work on the default `StarCluster <http://star.mit.edu/cluster/>`__ AMI, ami-999d49f0.
 These have already been pre-installed on the course AMI, ami-d6e581bf.
 

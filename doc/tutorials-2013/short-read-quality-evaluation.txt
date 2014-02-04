@@ -2,6 +2,12 @@
 Evaluating the quality of your short reads, and trimming them
 =============================================================
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 As useful as BLAST is, we really want to get into sequencing data,
 right?  One of the first steps you must do with your data is
 evaluate its quality and throw away bad sequences.

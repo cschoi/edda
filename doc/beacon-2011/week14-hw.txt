@@ -48,6 +48,12 @@ the evolution techniques?
 Computational HW (due Wednesday, Dec 7th, at midnight)
 ------------------------------------------------------
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 Run through :doc:`../tutorials-2011/short-read-assembly-velvet`, using AMI
 ami-67fe300e.  The data is on snapshot snap-000d346e, so you'll need
 to create a volume from that snapshot and mount it as /dev/xvdf.  (See
