@@ -38,6 +38,8 @@ Contents:
 
    bioinformatics-courses
 
+   2013-uw-zero-entry
+
    2013-msu-zero-entry
 
    2013-caltech-cemi
