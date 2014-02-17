@@ -86,13 +86,13 @@ To actually do the mapping, we need to download and install bwa.
 
 First we are going to grab the source files for bwa from sourceforge,
 using curl. It is important to know that we need to specify a few
-flags to let the program know that we want to keep the name (and
-filetype) for the file (-O) and that curl should follow relative
-hyperlinks (-L), to deal with redirection of the file site (or else
-curl won't work with sourceforge).::
+flags to let the program know that we want to save the output to a
+file (-o) instead of the default (print it on the screen) and that
+curl should follow relative hyperlinks (-L), to deal with redirection
+of the file site (or else curl won't work with sourceforge).::
 
   cd /mnt
-  wget -O bwa-0.7.5.tar.bz2 http://sourceforge.net/projects/bio-bwa/files/bwa-0.7.5a.tar.bz2/download
+  curl -L -o bwa-0.7.5.tar.bz2 http://sourceforge.net/projects/bio-bwa/files/bwa-0.7.5a.tar.bz2/download
 
 Now we want to uncompress the tarball file using "tar". x extracts, v
 is verbose (telling you what it is doing), f skips prompting for each

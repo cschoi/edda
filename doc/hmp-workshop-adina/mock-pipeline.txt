@@ -1,6 +1,12 @@
 From sequence to assembly, HMP mock community example
 ======================================================
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 We're going to demonstrate the pipeline we use to tackle complex metagenomic datasets.  Our goal is to reduce to the dataset size to be smaller, disconnected partitions which one could then use for whatever needs you might have.  In this example, we demonstrate the assembly and annotation of a metagenome using these methods.
 
 To summarize, the process includes 1) digital normalization to a specified coverage of quality-trimmed sequencing reads, 2) partitioning of disconnected subsets of reads, 3) removal of sequencing artifacts from the largest subset, 4) partitioning of the artifact-removed subset, 5) assembly of the partitions, 6) annotation of partitions with MG-RAST, and 7) recovering abundance information from raw reads for annotated ORFs.

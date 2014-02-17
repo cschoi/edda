@@ -1,6 +1,12 @@
 Partitioning
 ============
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 As part of our efforts to scale metagenome assembly, we've developed an
 IDBA/MetaVelvet-like approach that not only subdivides the reads into
 disconnected components but does so in less memory than either of the

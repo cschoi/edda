@@ -2,6 +2,12 @@
 Preparing data from raw
 =======================
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 I grabbed the PhiX, DH10B, and MG1655 data sets from `Illumina's
 public data repo
 <http://www.illumina.com/systems/miseq/scientific_data.ilmn>`__.

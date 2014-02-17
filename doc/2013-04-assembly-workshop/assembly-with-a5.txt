@@ -1,6 +1,12 @@
 Assembling microbial genomes with A5
 ====================================
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 Let's try using a different assembly pipeline -- the A5 pipeline, from
 `An Integrated Pipeline for de Novo Assembly of Microbial Genomes
 <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0042304>`__.
