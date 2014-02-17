@@ -140,6 +140,12 @@ the script into a file, or download it from https://raw.github.com/ctb/edda/mast
 Other Scripts
 -------------
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 FASTQ to FASTA Converter: https://raw.github.com/ctb/khmer/master/scripts/fastq-to-fasta.py
 Strip and Split for Assembly: https://raw.github.com/ctb/khmer/master/scripts/strip-and-split-for-assembly.py
 Quality Trimming: https://raw.github.com/ctb/khmer/master/scripts/quality-trim.py

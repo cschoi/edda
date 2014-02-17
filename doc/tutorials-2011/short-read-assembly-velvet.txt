@@ -2,6 +2,12 @@
 Short Read Assembly with Velvet
 ===============================
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 :Author: Jason Pell
 :Date: June 7, 2011
 :Last Updated: June 9, 2011

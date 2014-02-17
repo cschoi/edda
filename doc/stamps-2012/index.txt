@@ -2,6 +2,12 @@
 Strategies and Techniques for Analyzing Microbial Population Structure (2012)
 =============================================================================
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 (This is just the metagenomics sequence assembly section of the course!
 Main course page: https://stamps.mbl.edu/index.php/Main_Page)
 

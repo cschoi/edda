@@ -1,6 +1,13 @@
 Installing the necessary software on the cod servers
 ====================================================
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
+
 This should all run on cod3::
 
    %% ssh guestXXX@cod3.uio.no

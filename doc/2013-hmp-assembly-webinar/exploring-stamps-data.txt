@@ -1,6 +1,12 @@
 Exploring a simple simulated data set
 =====================================
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 Let's take a look at some k-mer abundance distributions, and the effects
 of various activities on them.
 

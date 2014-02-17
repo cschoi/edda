@@ -1,6 +1,12 @@
 Comparing assemblies done with different k values
 =================================================
 
+.. Warning:: These documents are not maintained and their instructions may be
+	out of date. However the GED Lab does maintain the `khmer protocols
+	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
+	topics. See also the `installation instructions for the current version
+	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+
 Here we're going to answer the age-old question: which is better, k=31
 or k=33?
 
