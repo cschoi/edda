@@ -6,11 +6,11 @@
 Welcome to ANGUS!
 =================
 
-.. Warning:: These documents are not maintained and their instructions may be
-	out of date. However the GED Lab does maintain the `khmer protocols
-	<http://khmer-protocols.readthedocs.org/>`__ which may cover similar
-	topics. See also the `installation instructions for the current version
-	of the khmer project <https://khmer.readthedocs.org/en/latest/install.html>`__. 
+.. note:: These tutorials are checked at the time of posting, but many
+        are now quite old and out of date.  The GED Lab does maintain
+        a set of up-to-date tutorials on sequence analysis, the 
+        `khmer protocols <http://khmer-protocols.readthedocs.org/>`__,
+        which may cover similar topics.
 
 ANGUS is a site built around the `2010 course on Analyzing
 Next-Generation Sequencing Data
